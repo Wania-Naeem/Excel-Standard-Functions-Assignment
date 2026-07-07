@@ -1,6 +1,6 @@
 Excel Standard Functions Assignment
 Student Information
-•                Name: Wania Naeem 
+• Name: Wania Naeem 
 •	Course: Data Analysis 
 •	Assignment: Excel Standard Functions 
 •	Submission Date: 7 July 2026 
